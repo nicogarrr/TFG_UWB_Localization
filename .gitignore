@@ -1,0 +1,32 @@
+# Archivos temporales
+*.tmp
+*.bak
+
+# Archivos de compilaciu00f3n
+*.o
+*.elf
+*.bin
+*.hex
+
+# Archivos de configuraciu00f3n de IDE
+.vscode/
+.idea/
+__pycache__/
+*.pyc
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de registro y datos (opcional, descomenta si no quieres incluirlos)
+# *.csv
+# *.log
+
+# Directorios de dependencias
+venv/
+env/
+.env/
+
+# Archivos de configuraciu00f3n personal
+secrets.h
+wifi_credentials.h
