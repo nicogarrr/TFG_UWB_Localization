@@ -1,0 +1,12 @@
+{
+  "field_settings": {
+    "field_length": 7.0,
+    "field_width": 5.0,
+    "anchor_height": 2.0,
+    "time_window_ms": 80
+  },
+  "10": { "position": [0.0, 1.10, 2.0] },
+  "20": { "position": [0.0, 4.55, 2.0] },
+  "30": { "position": [3.45, 3.50, 2.0] },
+  "40": { "position": [3.45, 0.66, 2.0] }
+}
